@@ -1,14 +1,14 @@
 {
-    "Group": "Example",
-    "Name": "ExamplePlugin",
-    "Version": "0.0.2",
-    "Description": "An example plugin for HyTale!",
+    "Group": "Serious App Company",
+    "Name": "DurabilityPlus",
+    "Version": "0.3.2",
+    "Description": "Double durability on tools and less durability loss on hit",
     "Authors": [
         {
-            "Name": "It's you!"
+            "Name": "Frank Solleveld"
         }
     ],
-    "Website": "example.org",
+    "Website": "seriousappcompany.com",
     "ServerVersion": "*",
     "Dependencies": {
         
@@ -17,6 +17,6 @@
         
     },
     "DisabledByDefault": false,
-    "Main": "org.example.plugin.ExamplePlugin",
+    "Main": "org.seriousappcompany.plugin.DurabilityPlusPlugin",
     "IncludesAssetPack": true
 }
